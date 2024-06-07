@@ -1,6 +1,8 @@
 [
   {
     "cover_photo": "/photos/Rectangle 2-1.png",
+        "id":"9",
+
     "heading": "Learn Full-Stack Web Development",
     "paragraph": "Become a full-stack web developer in just 12 weeks. This bootcamp covers HTML, CSS, JavaScript, Node.js, and more.",
     "price": "$1200",
@@ -9,6 +11,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 2-2.png",
+        "id":"8",
+
     "heading": "Master Digital Marketing",
     "paragraph": "Enhance your skills in SEO, PPC, social media marketing, and analytics to become a digital marketing expert.",
     "price": "$900",
@@ -17,6 +21,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 2-3.png",
+        "id":"7",
+
     "heading": "Data Science with Python",
     "paragraph": "Learn data analysis, visualization, and machine learning using Python. Perfect for aspiring data scientists.",
     "price": "$1500",
@@ -25,6 +31,7 @@
   },
   {
     "cover_photo": "../photos/Rectangle 2-4.png",
+    "id":"1",
     "heading": "Essentials of Graphic Design",
     "paragraph": "Dive into the fundamentals of graphic design, including typography, color theory, and Adobe Creative Suite tools.",
     "price": "$750",
@@ -33,6 +40,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 2-5.png",
+        "id":"2",
+
     "heading": "Business Analytics Certification",
     "paragraph": "Gain the skills needed to analyze business data, make data-driven decisions, and improve business performance.",
     "price": "$1100",
@@ -41,6 +50,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 2-6.png",
+        "id":"3",
+
     "heading": "Fundamentals of Cybersecurity",
     "paragraph": "Learn to protect systems, networks, and programs from digital attacks with foundational cybersecurity knowledge.",
     "price": "$1300",
@@ -49,6 +60,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 2.png",
+        "id":"4",
+
     "heading": "PMP Exam Preparation",
     "paragraph": "Prepare for the PMP certification with comprehensive training in project management principles and best practices.",
     "price": "$1000",
@@ -57,6 +70,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 3-1.png",
+        "id":"5",
+
     "heading": "Introduction to Machine Learning",
     "paragraph": "Start your journey in machine learning by understanding the basics, including algorithms, data preparation, and model evaluation.",
     "price": "$1200",
@@ -65,6 +80,8 @@
   },
   {
     "cover_photo": "../photos/Rectangle 3.png",
+        "id":"6",
+
     "heading": "Advanced Excel Techniques",
     "paragraph": "Master advanced Excel functions, data analysis, and visualization techniques to become an Excel power user.",
     "price": "$600",
