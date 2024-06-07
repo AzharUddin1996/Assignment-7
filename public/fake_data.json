@@ -1,0 +1,74 @@
+[
+  {
+    "cover_photo": "/photos/Rectangle 2-1.png",
+    "heading": "Learn Full-Stack Web Development",
+    "paragraph": "Become a full-stack web developer in just 12 weeks. This bootcamp covers HTML, CSS, JavaScript, Node.js, and more.",
+    "price": "$1200",
+    "credit_hours": 36,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 2-2.png",
+    "heading": "Master Digital Marketing",
+    "paragraph": "Enhance your skills in SEO, PPC, social media marketing, and analytics to become a digital marketing expert.",
+    "price": "$900",
+    "credit_hours": 30,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 2-3.png",
+    "heading": "Data Science with Python",
+    "paragraph": "Learn data analysis, visualization, and machine learning using Python. Perfect for aspiring data scientists.",
+    "price": "$1500",
+    "credit_hours": 40,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 2-4.png",
+    "heading": "Essentials of Graphic Design",
+    "paragraph": "Dive into the fundamentals of graphic design, including typography, color theory, and Adobe Creative Suite tools.",
+    "price": "$750",
+    "credit_hours": 25,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 2-5.png",
+    "heading": "Business Analytics Certification",
+    "paragraph": "Gain the skills needed to analyze business data, make data-driven decisions, and improve business performance.",
+    "price": "$1100",
+    "credit_hours": 35,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 2-6.png",
+    "heading": "Fundamentals of Cybersecurity",
+    "paragraph": "Learn to protect systems, networks, and programs from digital attacks with foundational cybersecurity knowledge.",
+    "price": "$1300",
+    "credit_hours": 38,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 2.png",
+    "heading": "PMP Exam Preparation",
+    "paragraph": "Prepare for the PMP certification with comprehensive training in project management principles and best practices.",
+    "price": "$1000",
+    "credit_hours": 32,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 3-1.png",
+    "heading": "Introduction to Machine Learning",
+    "paragraph": "Start your journey in machine learning by understanding the basics, including algorithms, data preparation, and model evaluation.",
+    "price": "$1200",
+    "credit_hours": 34,
+    "select_button": "Select"
+  },
+  {
+    "cover_photo": "../photos/Rectangle 3.png",
+    "heading": "Advanced Excel Techniques",
+    "paragraph": "Master advanced Excel functions, data analysis, and visualization techniques to become an Excel power user.",
+    "price": "$600",
+    "credit_hours": 20,
+    "select_button": "Select"
+  }
+]
